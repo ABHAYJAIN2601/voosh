@@ -1,0 +1,3 @@
+[submodule "voosh-frontend"]
+	path = voosh-frontend
+	url = https://github.com/ABHAYJAIN2601/voosh-frontend.git
